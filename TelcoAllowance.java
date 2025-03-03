@@ -1,5 +1,4 @@
-
-    public class TelcoAllowance implements TelcoPromoVisitor {
+public class TelcoAllowance implements TelcoPromoVisitor {
 
         @Override
         public void visit(Telco telco) {
