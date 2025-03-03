@@ -31,4 +31,3 @@ public class Telco implements TelcoSubscription {
             return dataAllowance;
         }
     }
-
