@@ -4,4 +4,3 @@ public interface TelcoSubscription {
         int getPromoPrice();
         boolean getUnliCallText();
     }
-
