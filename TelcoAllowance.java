@@ -16,4 +16,3 @@ public class TelcoAllowance implements TelcoPromoVisitor {
             return "No Unlimited Calls/Text Offer";
         }
     }
-
